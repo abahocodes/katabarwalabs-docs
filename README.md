@@ -6,6 +6,7 @@ Setup and usage guides for Katabarwa Labs apps on the Atlassian Marketplace. Eve
 
 - [Compliance Log Vault](./compliance-log-vault.md) — long-term Jira audit-log retention and audit-ready CSV export.
 - [Notification Log for JSM](./jsm-notification-log.md) — searchable, exportable log of every outgoing JSM customer notification.
+- [Portal Governance for JSM](./jsm-portal-governance.md) — per-desk portal access matrix (customers, orgs, agents), drift, and optional stale-access cleanup.
 
 More app guides are added here as each listing goes live.
 

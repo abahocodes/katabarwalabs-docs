@@ -6,7 +6,7 @@ Setup and usage guides for Katabarwa Labs apps on the Atlassian Marketplace. Eve
 
 - [Access Governance Reporter](./access-governance-reporter.md) — effective-access matrix (who can access what, and how), group usage, and audit-ready CSV.
 - [Attachment Cleanup for Confluence](./confluence-attachment-cleanup.md) — site-wide attachment-waste inventory (unused, orphaned, large) with reclaimable-bytes totals and optional soft-delete cleanup.
-- [JSM Assets Export](./jsm-assets-export.md) — bulk CSV/JSON export and backup of a JSM Assets (CMDB) object schema, with export history.
+- [Assets Export Manager for Jira Service Management](./jsm-assets-export.md) — bulk CSV/JSON export and backup of a JSM Assets (CMDB) object schema, with export history.
 - [Compliance Log Vault](./compliance-log-vault.md) — long-term Jira audit-log retention and audit-ready CSV export.
 - [Notification Log for JSM](./jsm-notification-log.md) — searchable, exportable log of every outgoing JSM customer notification.
 - [Portal Governance for JSM](./jsm-portal-governance.md) — per-desk portal access matrix (customers, orgs, agents), drift, and optional stale-access cleanup.

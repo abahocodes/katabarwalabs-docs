@@ -1,4 +1,4 @@
-# JSM Assets Export — Setup & Usage
+# Assets Export Manager for Jira Service Management — Setup & Usage
 
 A bulk export and backup for Jira Service Management Assets (CMDB): pick an object schema and download every object and its attributes as CSV or JSON. Runs entirely on Atlassian Forge inside your own Jira Cloud site. Nothing leaves your instance.
 
@@ -45,7 +45,7 @@ Free for up to 10 users, then standard Atlassian per-agent tiered pricing. Atlas
 
 ## Open the app
 
-Go to **Jira Settings → Apps → JSM Assets Export**.
+Go to **Jira Settings → Apps → Assets Export Manager for Jira Service Management**.
 
 ## Usage
 
@@ -57,7 +57,7 @@ Go to **Jira Settings → Apps → JSM Assets Export**.
 ## How to test it (verify functionality)
 
 1. Make sure your site has JSM Assets with at least one object schema that contains a few objects. If needed, create a small schema (for example "Test Schema") with an object type and two or three objects.
-2. Open **Jira Settings → Apps → JSM Assets Export**.
+2. Open **Jira Settings → Apps → Assets Export Manager for Jira Service Management**.
 3. Select that schema, choose **CSV**, and run the export. A CSV downloads with one row per object and columns for each attribute.
 4. Run it again with **JSON** and confirm you get a full-fidelity JSON file of the same objects.
 5. Open the **export history** and confirm the run is recorded with the correct schema name, format, and object count.

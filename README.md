@@ -1,6 +1,6 @@
 # Katabarwa Labs — App Documentation
 
-Setup and usage guides for Katabarwa Labs apps on the Atlassian Marketplace. Every app runs entirely on Atlassian Forge inside your own Jira Cloud site, read-only and least-privilege, with no data leaving your instance.
+Setup and usage guides for Katabarwa Labs apps on the Atlassian Marketplace. Every app runs entirely on Atlassian Forge inside your own Jira or Confluence Cloud site, read-only and least-privilege, with no data leaving your instance.
 
 ## Jira / JSM apps
 
@@ -16,10 +16,11 @@ Setup and usage guides for Katabarwa Labs apps on the Atlassian Marketplace. Eve
 ## Confluence apps
 
 - [Page-Restriction Governance](./page-restriction-governance.md) — who-can-see-what across restricted pages, orphans, inheritance, drift.
+- [Crisp Diagrams for Confluence](./crisp-diagrams.md) — Mermaid, PlantUML, D2, DBML and Excalidraw diagrams rendered in the browser: zoomable SVG, live preview, dark mode, images in PDF and Word exports. Free.
 - [Repo Docs Sync for Confluence](./repo-docs-sync.md) — pages that stay true to the code: synced by your own CI, reviewed and applied by you.
 
 More app guides are added here as each listing goes live.
 
 ## Support
 
-Questions or issues: **abaho@llmgraph.ai**, or via https://katabarwalabs.dev/support.
+Questions or issues: **support@llmgraph.ai**, or via https://katabarwalabs.dev/support.

@@ -23,6 +23,8 @@ Runs entirely on Atlassian: no vendor servers, no data egress. Support: support@
 
 ## 6. Templates: type a name under Save the source as a template. Later, Use creates a new space from it with the same options.
 
+![Step 6](images/confluence-space-copy-step-6.png)
+
 ## 7. From any page, Actions (…), Copy page tree copies that page and everything under it into a space and parent you choose.
 
 ## What the app stores

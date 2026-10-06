@@ -11,6 +11,7 @@ Setup and usage guides for Katabarwa Labs apps on the Atlassian Marketplace. Eve
 - [Compliance Log Vault](./compliance-log-vault.md) — long-term Jira audit-log retention and audit-ready CSV export.
 - [Notification Log for JSM](./jsm-notification-log.md) — searchable, exportable log of every outgoing JSM customer notification.
 - [Portal Governance for JSM](./jsm-portal-governance.md) — per-desk portal access matrix (customers, orgs, agents), drift, and optional stale-access cleanup.
+- [Searchable Forms for JSM](./searchable-forms.md) - search Jira Forms answers in JQL, filters and dashboards, with a per-request Form history.
 - [Orphaned-Owner Cleanup](./orphaned-owner-cleanup.md) — finds filters, dashboards, issues, and project leads left behind by deactivated users; optional bulk reassign.
 
 ## Confluence apps

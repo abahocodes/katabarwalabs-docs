@@ -50,6 +50,16 @@ Go to **Jira Settings → Apps → Project Export & Backup**.
 3. Open the downloaded file: for CSV, one row per issue with the configured fields; for JSON, the structured project export plus a manifest.
 4. The archive or trash decommission action is optional and heavily guarded (explicit confirmation), and is not required to export. Only use it when you intend to decommission the project, with the export as your backup. This action is permanent.
 
+## Export a single work item
+
+You do not have to export a whole project to back up one issue.
+
+1. Open the work item in Jira.
+2. Open its **Actions** menu (the **•••** button) and select **Export this work item**.
+3. Choose **CSV** or **JSON**, choose whether to include comments and worklogs, and select **Export**. The file downloads to your browser.
+
+The file uses the same columns as a project export: fields, comments, worklogs, changelog, links, and attachments as URLs plus metadata. Any user who can browse the work item can use it, no admin rights needed. The app checks that you can browse the work item and then reads it as you, so the file contains only what you can already see (restricted comments you cannot view are not included).
+
 ## Support
 
 - Publisher: Katabarwa Labs (Katabarwa Labs Inc)
